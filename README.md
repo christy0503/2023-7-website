@@ -21,3 +21,16 @@ This project is a basic web application created using HTML, CSS, and JavaScript.
    ```bash
    git clone https://github.com/christy0503/2023-7-website.git
    cd 2023-7-website
+
+## Usage
+
+After opening the index.html file in your browser, you will see the main page of the project.
+
+To modify the styles, edit the styles.css file.
+
+To modify the behavior, edit the script.js file.
+
+## Contributing
+
+## License
+
